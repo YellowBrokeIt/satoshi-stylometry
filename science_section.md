@@ -1,6 +1,6 @@
 ## 4b. The science: does the writing fit?
 
-The prose "fingerprints" in section 4 are easy to repeat and rarely checked, so we checked them. We built a corpus of everything Satoshi Nakamoto wrote (61 emails and 543 forum posts, about 62,000 words, plus the white paper) and set it against Elon Musk's X posts (89,485 original posts, about 646,000 words), his Tesla blog posts, and 48 of his published emails and text messages. As controls we added 2006-09 cryptography-list writers, BitcoinTalk posters, Hal Finney, Nick Szabo and Adam Back. Every number below comes from code in the [open repo]([REPO LINK]), and you can rerun it. Here is what fits the theory, and what doesn't.
+The prose "fingerprints" in section 4 are easy to repeat and rarely checked, so we checked them. We built a corpus of everything Satoshi Nakamoto wrote (61 emails and 543 forum posts, about 62,000 words, plus the white paper) and set it against Elon Musk's X posts (89,485 original posts, about 646,000 words), his Tesla blog posts, and 48 of his published emails and text messages. As controls we added 2006-09 cryptography-list writers, BitcoinTalk posters, Hal Finney, Nick Szabo and Adam Back. Every number below comes from code in the [open repo](https://github.com/YellowBrokeIt/satoshi-stylometry), and you can rerun it. Here is what fits the theory, and what doesn't.
 
 ### 1. "Bloody": a word both men use
 
@@ -46,4 +46,4 @@ Elon's own posts are 0.65% British (13 of 2,006 spelling words, and several of t
 | "Bloody" | 1 | 3 (including "Bloody hell...") | Shared British intensifier |
 | Function words (Delta to Satoshi) | n/a | 1.04, closer than Szabo 1.32, Back 1.13 and Elon's blog 1.29 | No candidate matches; cross-genre, so inconclusive |
 
-Stylometry can't name Satoshi. It can say Satoshi's habits were unusual, and that nobody's writing matches closely enough to rule anyone in or out. **Full method, caveats, data and charts:** [REPO LINK].
+Stylometry can't name Satoshi. It can say Satoshi's habits were unusual, and that nobody's writing matches closely enough to rule anyone in or out. **Full method, caveats, data and charts:** https://github.com/YellowBrokeIt/satoshi-stylometry.
