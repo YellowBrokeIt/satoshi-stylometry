@@ -2,7 +2,7 @@
 
 The prose "fingerprints" in section 4 are easy to repeat and rarely checked, so we checked them. We built a corpus of everything Satoshi Nakamoto wrote (61 emails and 543 forum posts, about 62,000 words, plus the white paper) and set it against Elon Musk's X posts (89,485 original posts, about 646,000 words), his Tesla blog posts, and 48 of his published emails and text messages. As controls we added 2006-09 cryptography-list writers, BitcoinTalk posters, Hal Finney, Nick Szabo and Adam Back. Every number below comes from code in the [open repo]([REPO LINK]), and you can rerun it. Here is what fits the theory, and what doesn't.
 
-### 1. "Bloody": the one phrase both men share
+### 1. "Bloody": a word both men use
 
 Satoshi on BitcoinTalk: *"Writing a description for this thing for general audiences is bloody hard."* Elon, in 2017: *"Bloody hell, I'm going to have to write a blog."* The word is a classic Commonwealth-English intensifier. It shows up in Satoshi's writing, and it shows up in Elon's own posts too (3 times in 646,000 words). It sits alongside the other shared phrase from section 4, "order of magnitude".
 
