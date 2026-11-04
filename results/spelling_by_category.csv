@@ -1,0 +1,105 @@
+corpus,category,british,american
+Satoshi - informal (emails+forum),-our / -or,8,4
+Satoshi - informal (emails+forum),-ise / -ize,18,56
+Satoshi - informal (emails+forum),-yse / -yze,1,0
+Satoshi - informal (emails+forum),-re / -er,0,0
+Satoshi - informal (emails+forum),-ence / -ense,1,0
+Satoshi - informal (emails+forum),-ogue / -og,0,2
+Satoshi - informal (emails+forum),-ll- / -l-,2,0
+Satoshi - informal (emails+forum),misc spellings,1,2
+Satoshi - white paper,-our / -or,1,0
+Satoshi - white paper,-ise / -ize,0,2
+Satoshi - white paper,-yse / -yze,0,0
+Satoshi - white paper,-re / -er,0,0
+Satoshi - white paper,-ence / -ense,0,0
+Satoshi - white paper,-ogue / -og,0,0
+Satoshi - white paper,-ll- / -l-,0,0
+Satoshi - white paper,misc spellings,0,0
+Satoshi - ALL,-our / -or,9,4
+Satoshi - ALL,-ise / -ize,18,58
+Satoshi - ALL,-yse / -yze,1,0
+Satoshi - ALL,-re / -er,0,0
+Satoshi - ALL,-ence / -ense,1,0
+Satoshi - ALL,-ogue / -og,0,2
+Satoshi - ALL,-ll- / -l-,2,0
+Satoshi - ALL,misc spellings,1,2
+"Elon - X posts (cmj CSV, non-RT, 2010-2026)",-our / -or,3,474
+"Elon - X posts (cmj CSV, non-RT, 2010-2026)",-ise / -ize,1,1079
+"Elon - X posts (cmj CSV, non-RT, 2010-2026)",-yse / -yze,0,15
+"Elon - X posts (cmj CSV, non-RT, 2010-2026)",-re / -er,1,179
+"Elon - X posts (cmj CSV, non-RT, 2010-2026)",-ence / -ense,0,56
+"Elon - X posts (cmj CSV, non-RT, 2010-2026)",-ogue / -og,0,2
+"Elon - X posts (cmj CSV, non-RT, 2010-2026)",-ll- / -l-,5,112
+"Elon - X posts (cmj CSV, non-RT, 2010-2026)",misc spellings,3,76
+Elon - X API raw sample,-our / -or,0,3
+Elon - X API raw sample,-ise / -ize,0,11
+Elon - X API raw sample,-yse / -yze,0,0
+Elon - X API raw sample,-re / -er,0,4
+Elon - X API raw sample,-ence / -ense,0,2
+Elon - X API raw sample,-ogue / -og,0,0
+Elon - X API raw sample,-ll- / -l-,0,3
+Elon - X API raw sample,misc spellings,1,1
+Elon - Tesla blog prose,-our / -or,0,2
+Elon - Tesla blog prose,-ise / -ize,0,8
+Elon - Tesla blog prose,-yse / -yze,0,0
+Elon - Tesla blog prose,-re / -er,0,4
+Elon - Tesla blog prose,-ence / -ense,0,1
+Elon - Tesla blog prose,-ogue / -og,0,0
+Elon - Tesla blog prose,-ll- / -l-,0,3
+Elon - Tesla blog prose,misc spellings,0,0
+Hal Finney (list+emails+essays),-our / -or,0,13
+Hal Finney (list+emails+essays),-ise / -ize,0,68
+Hal Finney (list+emails+essays),-yse / -yze,0,3
+Hal Finney (list+emails+essays),-re / -er,0,0
+Hal Finney (list+emails+essays),-ence / -ense,0,2
+Hal Finney (list+emails+essays),-ogue / -og,0,0
+Hal Finney (list+emails+essays),-ll- / -l-,1,1
+Hal Finney (list+emails+essays),misc spellings,0,2
+Nick Szabo (essays),-our / -or,0,176
+Nick Szabo (essays),-ise / -ize,0,343
+Nick Szabo (essays),-yse / -yze,0,26
+Nick Szabo (essays),-re / -er,0,8
+Nick Szabo (essays),-ence / -ense,0,9
+Nick Szabo (essays),-ogue / -og,0,4
+Nick Szabo (essays),-ll- / -l-,14,22
+Nick Szabo (essays),misc spellings,6,33
+Adam Back (list emails),-our / -or,0,0
+Adam Back (list emails),-ise / -ize,0,9
+Adam Back (list emails),-yse / -yze,0,0
+Adam Back (list emails),-re / -er,0,0
+Adam Back (list emails),-ence / -ense,0,0
+Adam Back (list emails),-ogue / -og,0,0
+Adam Back (list emails),-ll- / -l-,0,0
+Adam Back (list emails),misc spellings,0,0
+Wei Dai (b-money),-our / -or,0,1
+Wei Dai (b-money),-ise / -ize,0,1
+Wei Dai (b-money),-yse / -yze,0,0
+Wei Dai (b-money),-re / -er,0,0
+Wei Dai (b-money),-ence / -ense,0,0
+Wei Dai (b-money),-ogue / -og,0,0
+Wei Dai (b-money),-ll- / -l-,0,0
+Wei Dai (b-money),misc spellings,0,0
+Cryptography-list others (2006-09),-our / -or,60,305
+Cryptography-list others (2006-09),-ise / -ize,164,1353
+Cryptography-list others (2006-09),-yse / -yze,12,81
+Cryptography-list others (2006-09),-re / -er,9,123
+Cryptography-list others (2006-09),-ence / -ense,27,102
+Cryptography-list others (2006-09),-ogue / -og,1,4
+Cryptography-list others (2006-09),-ll- / -l-,24,87
+Cryptography-list others (2006-09),misc spellings,22,111
+BitcoinTalk others (same threads as Satoshi),-our / -or,13,74
+BitcoinTalk others (same threads as Satoshi),-ise / -ize,35,336
+BitcoinTalk others (same threads as Satoshi),-yse / -yze,1,8
+BitcoinTalk others (same threads as Satoshi),-re / -er,0,4
+BitcoinTalk others (same threads as Satoshi),-ence / -ense,0,8
+BitcoinTalk others (same threads as Satoshi),-ogue / -og,0,0
+BitcoinTalk others (same threads as Satoshi),-ll- / -l-,3,17
+BitcoinTalk others (same threads as Satoshi),misc spellings,1,8
+"Control tweets (Back, Szabo, Vitalik)",-our / -or,0,4
+"Control tweets (Back, Szabo, Vitalik)",-ise / -ize,5,11
+"Control tweets (Back, Szabo, Vitalik)",-yse / -yze,0,2
+"Control tweets (Back, Szabo, Vitalik)",-re / -er,0,1
+"Control tweets (Back, Szabo, Vitalik)",-ence / -ense,0,5
+"Control tweets (Back, Szabo, Vitalik)",-ogue / -og,0,0
+"Control tweets (Back, Szabo, Vitalik)",-ll- / -l-,1,0
+"Control tweets (Back, Szabo, Vitalik)",misc spellings,0,1

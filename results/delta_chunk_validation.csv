@@ -1,0 +1,33 @@
+author,chunks,correct,accuracy,most_common_wrong
+Hal Finney (writing),21,18,0.8571428571428571,Ian Grigg
+Nick Szabo (writing),40,36,0.9,Ian Grigg
+Jerry Leichter,40,34,0.85,Allen
+Lynn Wheeler,39,39,1.0,Lynn Wheeler
+Peter Gutmann,37,35,0.9459459459459459,David G. Koontz
+Perry E. Metzger,33,26,0.7878787878787878,R.A. Hettinga
+James A. Donald,25,22,0.88,John Denker
+Zooko,16,14,0.875,Allen
+Ian Grigg,15,6,0.4,Nick Szabo (writing)
+Steven M. Bellovin,13,13,1.0,Steven M. Bellovin
+RHorning,11,11,1.0,RHorning
+Travis H.,11,11,1.0,Travis H.
+John Gilmore,10,6,0.6,R.A. Hettinga
+John Denker,10,8,0.8,James A. Donald
+R.A. Hettinga,9,8,0.8888888888888888,Eugen Leitl
+Nicolas Williams,8,5,0.625,David Wagner
+Jon Callas,8,6,0.75,Steven M. Bellovin
+Victor Duchovni,8,6,0.75,R.A. Hettinga
+Ed Gerck,7,6,0.8571428571428571,James A. Donald
+knightmb,7,7,1.0,knightmb
+David G. Koontz,7,6,0.8571428571428571,R.A. Hettinga
+Eugen Leitl,7,1,0.14285714285714285,R.A. Hettinga
+Dan Geer,6,2,0.3333333333333333,Eugen Leitl
+Ben Laurie,6,4,0.6666666666666666,Victor Duchovni
+David Chaum,6,6,1.0,David Chaum
+Allen,6,5,0.8333333333333334,Hal Finney (writing)
+Thor Lancelot Simon,5,2,0.4,James A. Donald
+David Wagner,5,2,0.4,John Denker
+Ray Dillinger,5,2,0.4,Jerry Leichter
+Florian Weimer,5,5,1.0,Florian Weimer
+Satoshi (emails+forum),30,27,0.9,John Gilmore
+Elon - X posts (all),40,40,1.0,Elon - X posts (all)

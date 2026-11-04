@@ -1,0 +1,25 @@
+corpus,word,british,american
+Satoshi (all),colour/color,2,4
+Satoshi (all),realise/realize,0,6
+Satoshi (all),organise/organize,0,1
+Satoshi (all),centre/center,0,0
+Satoshi (all),optimise/optimize,12,11
+Satoshi (all),whilst/while,0,47
+Elon X posts 2010-2024,colour/color,0,40
+Elon X posts 2010-2024,realise/realize,0,103
+Elon X posts 2010-2024,organise/organize,0,83
+Elon X posts 2010-2024,centre/center,0,101
+Elon X posts 2010-2024,optimise/optimize,0,52
+Elon X posts 2010-2024,whilst/while,0,253
+Elon X posts 2025-26,colour/color,0,5
+Elon X posts 2025-26,realise/realize,0,52
+Elon X posts 2025-26,organise/organize,0,62
+Elon X posts 2025-26,centre/center,0,28
+Elon X posts 2025-26,optimise/optimize,0,20
+Elon X posts 2025-26,whilst/while,1,79
+Elon blog+emails 2006-2026,colour/color,0,0
+Elon blog+emails 2006-2026,realise/realize,0,2
+Elon blog+emails 2006-2026,organise/organize,0,5
+Elon blog+emails 2006-2026,centre/center,0,1
+Elon blog+emails 2006-2026,optimise/optimize,0,1
+Elon blog+emails 2006-2026,whilst/while,0,12

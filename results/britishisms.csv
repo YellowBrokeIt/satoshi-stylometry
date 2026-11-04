@@ -1,0 +1,144 @@
+corpus,marker,british_count,american_partner_count
+Satoshi - informal (emails+forum),whilst,0,42
+Satoshi - informal (emails+forum),amongst,0,0
+Satoshi - informal (emails+forum),learnt,0,1
+Satoshi - informal (emails+forum),spelt/dreamt/burnt/spoilt/smelt/leapt,0,1
+Satoshi - informal (emails+forum),towards,9,2
+Satoshi - informal (emails+forum),afterwards/backwards/forwards,4,13
+Satoshi - informal (emails+forum),bloody,1,1
+Satoshi - informal (emails+forum),mum/maths,1,0
+Satoshi - informal (emails+forum),cheers,0,49
+Satoshi - informal (emails+forum),lorry/petrol/queue,8,47
+Satoshi - informal (emails+forum),rubbish/bloke/chap/bugger/bollocks,0,2
+Satoshi - white paper,whilst,0,5
+Satoshi - white paper,amongst,0,0
+Satoshi - white paper,learnt,0,0
+Satoshi - white paper,spelt/dreamt/burnt/spoilt/smelt/leapt,0,0
+Satoshi - white paper,towards,0,0
+Satoshi - white paper,afterwards/backwards/forwards,0,1
+Satoshi - white paper,bloody,0,0
+Satoshi - white paper,mum/maths,0,1
+Satoshi - white paper,cheers,0,0
+Satoshi - white paper,lorry/petrol/queue,0,0
+Satoshi - white paper,rubbish/bloke/chap/bugger/bollocks,0,0
+Satoshi - ALL,whilst,0,47
+Satoshi - ALL,amongst,0,0
+Satoshi - ALL,learnt,0,1
+Satoshi - ALL,spelt/dreamt/burnt/spoilt/smelt/leapt,0,1
+Satoshi - ALL,towards,9,2
+Satoshi - ALL,afterwards/backwards/forwards,4,14
+Satoshi - ALL,bloody,1,1
+Satoshi - ALL,mum/maths,1,1
+Satoshi - ALL,cheers,0,49
+Satoshi - ALL,lorry/petrol/queue,8,47
+Satoshi - ALL,rubbish/bloke/chap/bugger/bollocks,0,2
+"Elon - X posts (cmj CSV, non-RT, 2010-2026)",whilst,1,332
+"Elon - X posts (cmj CSV, non-RT, 2010-2026)",amongst,1,48
+"Elon - X posts (cmj CSV, non-RT, 2010-2026)",learnt,0,40
+"Elon - X posts (cmj CSV, non-RT, 2010-2026)",spelt/dreamt/burnt/spoilt/smelt/leapt,10,12
+"Elon - X posts (cmj CSV, non-RT, 2010-2026)",towards,90,0
+"Elon - X posts (cmj CSV, non-RT, 2010-2026)",afterwards/backwards/forwards,24,182
+"Elon - X posts (cmj CSV, non-RT, 2010-2026)",bloody,3,83
+"Elon - X posts (cmj CSV, non-RT, 2010-2026)",mum/maths,0,89
+"Elon - X posts (cmj CSV, non-RT, 2010-2026)",cheers,1,618
+"Elon - X posts (cmj CSV, non-RT, 2010-2026)",lorry/petrol/queue,2,184
+"Elon - X posts (cmj CSV, non-RT, 2010-2026)",rubbish/bloke/chap/bugger/bollocks,1,181
+Elon - X API raw sample,whilst,0,6
+Elon - X API raw sample,amongst,0,1
+Elon - X API raw sample,learnt,0,0
+Elon - X API raw sample,spelt/dreamt/burnt/spoilt/smelt/leapt,0,0
+Elon - X API raw sample,towards,3,0
+Elon - X API raw sample,afterwards/backwards/forwards,0,2
+Elon - X API raw sample,bloody,0,2
+Elon - X API raw sample,mum/maths,0,1
+Elon - X API raw sample,cheers,0,9
+Elon - X API raw sample,lorry/petrol/queue,0,4
+Elon - X API raw sample,rubbish/bloke/chap/bugger/bollocks,0,0
+Elon - Tesla blog prose,whilst,0,10
+Elon - Tesla blog prose,amongst,0,2
+Elon - Tesla blog prose,learnt,0,0
+Elon - Tesla blog prose,spelt/dreamt/burnt/spoilt/smelt/leapt,0,1
+Elon - Tesla blog prose,towards,2,0
+Elon - Tesla blog prose,afterwards/backwards/forwards,0,1
+Elon - Tesla blog prose,bloody,0,0
+Elon - Tesla blog prose,mum/maths,0,2
+Elon - Tesla blog prose,cheers,0,2
+Elon - Tesla blog prose,lorry/petrol/queue,0,17
+Elon - Tesla blog prose,rubbish/bloke/chap/bugger/bollocks,0,0
+Hal Finney (list+emails+essays),whilst,0,24
+Hal Finney (list+emails+essays),amongst,1,5
+Hal Finney (list+emails+essays),learnt,0,5
+Hal Finney (list+emails+essays),spelt/dreamt/burnt/spoilt/smelt/leapt,0,0
+Hal Finney (list+emails+essays),towards,9,0
+Hal Finney (list+emails+essays),afterwards/backwards/forwards,10,13
+Hal Finney (list+emails+essays),bloody,0,0
+Hal Finney (list+emails+essays),mum/maths,0,2
+Hal Finney (list+emails+essays),cheers,0,8
+Hal Finney (list+emails+essays),lorry/petrol/queue,0,10
+Hal Finney (list+emails+essays),rubbish/bloke/chap/bugger/bollocks,0,7
+Nick Szabo (essays),whilst,0,108
+Nick Szabo (essays),amongst,2,62
+Nick Szabo (essays),learnt,0,9
+Nick Szabo (essays),spelt/dreamt/burnt/spoilt/smelt/leapt,0,0
+Nick Szabo (essays),towards,11,1
+Nick Szabo (essays),afterwards/backwards/forwards,6,3
+Nick Szabo (essays),bloody,0,0
+Nick Szabo (essays),mum/maths,0,0
+Nick Szabo (essays),cheers,0,11
+Nick Szabo (essays),lorry/petrol/queue,1,15
+Nick Szabo (essays),rubbish/bloke/chap/bugger/bollocks,0,5
+Adam Back (list emails),whilst,0,0
+Adam Back (list emails),amongst,0,0
+Adam Back (list emails),learnt,0,0
+Adam Back (list emails),spelt/dreamt/burnt/spoilt/smelt/leapt,0,0
+Adam Back (list emails),towards,0,0
+Adam Back (list emails),afterwards/backwards/forwards,0,11
+Adam Back (list emails),bloody,0,1
+Adam Back (list emails),mum/maths,0,0
+Adam Back (list emails),cheers,0,0
+Adam Back (list emails),lorry/petrol/queue,0,0
+Adam Back (list emails),rubbish/bloke/chap/bugger/bollocks,0,0
+Wei Dai (b-money),whilst,0,0
+Wei Dai (b-money),amongst,0,1
+Wei Dai (b-money),learnt,0,0
+Wei Dai (b-money),spelt/dreamt/burnt/spoilt/smelt/leapt,0,0
+Wei Dai (b-money),towards,0,1
+Wei Dai (b-money),afterwards/backwards/forwards,0,0
+Wei Dai (b-money),bloody,0,0
+Wei Dai (b-money),mum/maths,0,0
+Wei Dai (b-money),cheers,0,0
+Wei Dai (b-money),lorry/petrol/queue,0,0
+Wei Dai (b-money),rubbish/bloke/chap/bugger/bollocks,0,0
+Cryptography-list others (2006-09),whilst,7,637
+Cryptography-list others (2006-09),amongst,7,127
+Cryptography-list others (2006-09),learnt,3,63
+Cryptography-list others (2006-09),spelt/dreamt/burnt/spoilt/smelt/leapt,2,19
+Cryptography-list others (2006-09),towards,62,25
+Cryptography-list others (2006-09),afterwards/backwards/forwards,61,185
+Cryptography-list others (2006-09),bloody,2,21
+Cryptography-list others (2006-09),mum/maths,5,68
+Cryptography-list others (2006-09),cheers,333,259
+Cryptography-list others (2006-09),lorry/petrol/queue,19,291
+Cryptography-list others (2006-09),rubbish/bloke/chap/bugger/bollocks,11,137
+BitcoinTalk others (same threads as Satoshi),whilst,9,192
+BitcoinTalk others (same threads as Satoshi),amongst,3,29
+BitcoinTalk others (same threads as Satoshi),learnt,0,6
+BitcoinTalk others (same threads as Satoshi),spelt/dreamt/burnt/spoilt/smelt/leapt,2,6
+BitcoinTalk others (same threads as Satoshi),towards,14,5
+BitcoinTalk others (same threads as Satoshi),afterwards/backwards/forwards,14,38
+BitcoinTalk others (same threads as Satoshi),bloody,0,13
+BitcoinTalk others (same threads as Satoshi),mum/maths,2,31
+BitcoinTalk others (same threads as Satoshi),cheers,13,157
+BitcoinTalk others (same threads as Satoshi),lorry/petrol/queue,4,121
+BitcoinTalk others (same threads as Satoshi),rubbish/bloke/chap/bugger/bollocks,0,47
+"Control tweets (Back, Szabo, Vitalik)",whilst,0,1
+"Control tweets (Back, Szabo, Vitalik)",amongst,0,2
+"Control tweets (Back, Szabo, Vitalik)",learnt,0,0
+"Control tweets (Back, Szabo, Vitalik)",spelt/dreamt/burnt/spoilt/smelt/leapt,0,0
+"Control tweets (Back, Szabo, Vitalik)",towards,0,3
+"Control tweets (Back, Szabo, Vitalik)",afterwards/backwards/forwards,1,2
+"Control tweets (Back, Szabo, Vitalik)",bloody,0,0
+"Control tweets (Back, Szabo, Vitalik)",mum/maths,0,0
+"Control tweets (Back, Szabo, Vitalik)",cheers,0,0
+"Control tweets (Back, Szabo, Vitalik)",lorry/petrol/queue,0,0
+"Control tweets (Back, Szabo, Vitalik)",rubbish/bloke/chap/bugger/bollocks,0,2
