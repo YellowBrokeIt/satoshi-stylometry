@@ -1,0 +1,71 @@
+{
+  "brad_handle": "bradmillscan",
+  "brad_user_id": "246911146",
+  "brad_profile": "https://x.com/bradmillscan",
+  "brad_name": "Brad Mills",
+  "posts": 550,
+  "words_cleaned": 9735,
+  "delta": 1.159,
+  "cos_fw": 0.192,
+  "insertion_rank": 52,
+  "among": 66,
+  "n_cands": 65,
+  "elon_insertion_rank": 28,
+  "elon_delta": 1.007,
+  "second_check_rank": 47,
+  "second_check_among": 66,
+  "second_check_delta": 1.113,
+  "missing_cands": [],
+  "neighbors": [
+    {
+      "candidate": "Eric Rescorla",
+      "words": 5763,
+      "delta": 1.141,
+      "cos_fw": -0.05,
+      "rank_with_brad": 49
+    },
+    {
+      "candidate": "Suggester",
+      "words": 5387,
+      "delta": 1.143,
+      "cos_fw": 0.159,
+      "rank_with_brad": 50
+    },
+    {
+      "candidate": "Saqib Ali",
+      "words": 6723,
+      "delta": 1.148,
+      "cos_fw": -0.252,
+      "rank_with_brad": 51
+    },
+    {
+      "candidate": "Brad Mills - X posts",
+      "words": 9735,
+      "delta": 1.159,
+      "cos_fw": 0.192,
+      "rank_with_brad": 52
+    },
+    {
+      "candidate": "' =JeffH '",
+      "words": 6298,
+      "delta": 1.162,
+      "cos_fw": -0.301,
+      "rank_with_brad": 53
+    },
+    {
+      "candidate": "MoonShadow",
+      "words": 5866,
+      "delta": 1.178,
+      "cos_fw": -0.007,
+      "rank_with_brad": 54
+    },
+    {
+      "candidate": "RHorning",
+      "words": 23059,
+      "delta": 1.23,
+      "cos_fw": 0.011,
+      "rank_with_brad": 55
+    }
+  ],
+  "caveat": "Genre mismatch: tweets vs emails/forum \u2014 same caveat as Elon X posts."
+}

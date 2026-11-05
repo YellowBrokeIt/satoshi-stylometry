@@ -26,6 +26,20 @@ Everything below is produced by the code in `scripts/`; every number can be rege
 
 The claim words: Elon (all own writing) colour/color **0/45**, centre/center **0/130**, organise/organize **0/150**, realise/realize **0/157** (British / total). Satoshi: colour/color 2/6, realise/realize 0/6, organise/organize 0/1, optimise/optimize 12/23, `whilst` 0 (uses "while" 47 times), `learnt` 0.
 
+
+## Add-on: Brad Mills (@bradmillscan) X posts
+
+Brad Mills was scored the same way as Elon X posts: an **insertion rank** against the fixed 65-candidate Burrows' Delta pool (same MU/SD), not as a writer who reshapes the candidate set. Non-retweet posts from [@bradmillscan](https://x.com/bradmillscan) (user id `246911146`) were cleaned like other tweets (URLs and @mentions stripped).
+
+| Slice | Words (cleaned) | Delta to Satoshi | Cosine (function words) | Insertion rank |
+|---|---|---|---|---|
+| Brad Mills - X posts | 9,735 (550 posts) | **1.159** | 0.192 | **52 of 66** |
+| Elon - X posts (all) (same re-run) | 615k | 1.007 | 0.035 | 28 of 66 |
+
+Neighbors by Delta (3 above / Brad / 3 below): Eric Rescorla (1.141) → Suggester (1.143) → Saqib Ali (1.148) → **Brad Mills** (1.159) → JeffH (1.162) → MoonShadow (1.178) → RHorning (1.230).
+
+Full tables: `results/delta_brad_insertion_vs_satoshi.csv`, `results/delta_brad_neighbors.csv`, `results/delta_rank_vs_satoshi_incl_brad_insertion.csv`. Runner: `scripts/04_delta_brad.py` (does not change `04_delta.py`). **Same genre caveat as Elon X posts:** tweets vs Satoshi emails/forum is a large cross-genre gap, so Delta here is weak evidence either way.
+
 ## Method
 
 **Corpora** (see `scripts/00_fetch_corpora.sh`; word counts after cleaning)
